@@ -3,6 +3,7 @@
 
 ### This project is a project for the "java 101" class in "Patika.dev" 
 
+
 ### The aim of the project is to make a simple textual calculator using the "switch-case" structure.
 
 
@@ -13,3 +14,5 @@
 ### Projenin amacı "switch-case" yapısı kullanılarak basit metinsel bir hesap makinesinin yapılmasıdır
 
 ![img.png](img.png)
+
+#### https://www.patika.dev/tr
