@@ -17,7 +17,7 @@ public class Main {
         System.out.println("Powers of 5:");
         for (int j=1;j<=num;j++)
         {
-            int b= (int) Math.pow(4,j);
+            int b= (int) Math.pow(5,j);
             System.out.println(b);
         }
 
